@@ -1,8 +1,8 @@
-**# FedEx-PowerBI-Dashboard**  
+** #FedEx-PowerBI-Dashboard**  
 
 FedEx Shipments Dashboard: Interactive Power BI report visualizing shipment volume, delivery metrics, carrier performance, and destinations with dynamic filters and geographic mapping for actionable logistics insights.
 
-**# Features**  
+** #Features**  
 **Key Metrics -** Displays total shipments, average delivery distance, average delivery time, and planned shipment statistics.    
 **Trend Analysis -** Month-over-month (MoM) charts for shipments, delivery distance, and delivery time.    
 **Visual Breakdowns -** Pie and bar charts for delivery status and carrier performance.  
